@@ -40,9 +40,10 @@ Grey dark 3: #999
 }
 
 $bp-largest: 75em; //1200px
-$bp-large: 68.75rem;
-$bp-medium: 56.25rem; //900px
-
+$bp-large: 68.75em;
+$bp-medium: 56.25em; //900px
+$bp-small: 37.5em;
+$bp-smallest: 31.25em;
 
 * {
     margin: 0;
